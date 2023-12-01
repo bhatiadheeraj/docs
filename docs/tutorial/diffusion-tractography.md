@@ -1,5 +1,4 @@
-!!! warning
-    This is a draft
+
 
 ## Diffusion-weighted MRI preprocessing.
 
@@ -68,7 +67,7 @@ Now, let's get to work! The following steps of this tutorial will show you how t
 1. Click the following link to go to the project's page for the [Tutorial](https://brainlife.io/project/5ae916e7f446980028b15eb3)
 1. Click the 'Archive' tab at the top of the screen to go to the Archives page.
 1. Select the following datatypes from one subject by clicking the boxes next to the data for subject '10217':
-    * neuro/dwi
+    * dwi
     * anat/t1w
 1. Click the 'Stage to process' button on the right side of the screen
     * For 'Project', select your project from the drop-down menu.
